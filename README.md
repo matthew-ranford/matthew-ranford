@@ -5,7 +5,7 @@
 <h2 align="center">Full Stack Software Developer </h2> 
 
 - 🌏 Wellington, NZ
-- 💻 You can find my portfolio & résumé: <a href="https://matthew-ranford.github.io/portfolio/" target="_blank">here</a>
+- 💻 You can find my portfolio & résumé: <a href="https://matthew-ranford.github.io/portfolio/" target="blank">here</a>
 - 📧 How to reach me: <a href="mailto:matt.ranford16@gmail.com" target="blank">matt.ranford16@gmail.com</a>
 - 🔭 I’m currently working on: <a href="https://github.com/matthew-ranford/item-tracker" target="blank">personal project</a>
 - 🌱 I’m still learning about: React, Typescript, SQLite3, Routes, RESTful APIs
@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="left"> Connect with me</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
   <a href='https://linkedin.com/in/matthew-ranford-23b759261/' target="blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="40" height="40"></a>
 <a href="https://www.instagram.com/mattranny/" target="blank"><img src="https://github.com/matthew-ranford/matthew-ranford/assets/122190913/8f39cd2e-9289-4b98-aea2-a571e364f01a" alt="Instagram" width="40" height="40"></a></p>
