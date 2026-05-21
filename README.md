@@ -4,7 +4,7 @@
 <h1 align="center"> Hi there, I'm Matt 👋</h1>
 <h2 align="center">Full Stack Software Developer </h2> 
 
-- 🌏 Wellington, NZ
+- 🌏 Bilinga, Gold Coast
 - 💻 You can find my portfolio & résumé: <a href="https://matthew-ranford.github.io/portfolio/" target="blank">here</a>
 - 📧 How to reach me: <a href="mailto:matt.ranford16@gmail.com" target="blank">matt.ranford16@gmail.com</a>
 - 🔭 I’m currently working on: <a href="https://github.com/matthew-ranford/fresh-and-faded" target="blank">personal project</a>
