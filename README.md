@@ -7,7 +7,7 @@
 - 🌏 Bilinga, Gold Coast
 - 💻 You can find my portfolio & résumé: <a href="https://matthew-ranford.github.io/portfolio/" target="blank">here</a>
 - 📧 How to reach me: <a href="mailto:matt.ranford16@gmail.com" target="blank">matt.ranford16@gmail.com</a>
-- 🔭 I’m currently working on: <a href="https://github.com/matthew-ranford/fresh-and-faded](https://github.com/matthew-ranford/seo-redirect-mapper" target="blank">personal project</a>
+- 🔭 I’m currently working on: <a href="https://github.com/matthew-ranford/seo-redirect-mapper" target="blank">personal project</a>
 - 🌱 I’m still learning about: React, Typescript, SQLite3, Routes, RESTful APIs
 
 ---
