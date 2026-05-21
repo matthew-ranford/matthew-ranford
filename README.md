@@ -5,9 +5,9 @@
 <h2 align="center">Full Stack Software Developer </h2> 
 
 - 🌏 Bilinga, Gold Coast
-- 💻 You can find my portfolio & résumé: <a href="https://www.mattranford.com/" target="blank">here</a>
-- 📧 How to reach me: <a href="mailto:matt.ranford16@gmail.com" target="blank">matt.ranford16@gmail.com</a>
-- 🔭 I’m currently working on: <a href="https://github.com/matthew-ranford/seo-redirect-mapper" target="blank">personal project</a>
+- 💻 You can find my portfolio & résumé: <a href="https://www.mattranford.com/" target="_blank">here</a>
+- 📧 How to reach me: <a href="mailto:matt.ranford16@gmail.com" target="_blank">matt.ranford16@gmail.com</a>
+- 🔭 I’m currently working on: <a href="https://github.com/matthew-ranford/seo-redirect-mapper" target="_blank">personal project</a>
 - 🌱 I’m still learning about: React, Typescript, SQLite3, Routes, RESTful APIs
 
 ---
